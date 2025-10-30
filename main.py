@@ -33,7 +33,7 @@ window = Tk()
 window.title('Keygen')
 window.geometry('500x300')
 
-im = Image.open("C:/Users/ivank/Downloads/Shadow Fiend.jpg")
+im = Image.open("Shadow Fiend.jpg")
 bg = ImageTk.PhotoImage(im)
 label1 = Label(image=bg)
 label1.image = bg
